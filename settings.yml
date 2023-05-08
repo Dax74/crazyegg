@@ -1,5 +1,5 @@
-scrip_id:
+crazyegg_src:
   type: string
   default: ""
   description: 
-    en: "The script ID, e.g. 0123/4567. You can find it in the crazyegg script src: '//script.crazyegg.com/pages/scripts/0123/4567.js'."
+    en: "The src of the script, e.g. '//script.crazyegg.com/pages/scripts/0123/4567.js'."
