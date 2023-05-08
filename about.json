@@ -5,9 +5,6 @@
   "license_url": null,
   "about_url": null,
   "modifiers": {
-    "csp_extensions": [
-      "script-src: *.crazyegg.com",
-      "worker-src: blob:"
-    ]
+    "csp_extensions": ["worker-src: blob:"]
   }
 }
