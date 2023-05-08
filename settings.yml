@@ -1,4 +1,5 @@
-example_setting:
-  default: true
-  description:
-    en: A description of a setting.
+scrip_id:
+  type: string
+  default: ""
+  description: 
+    en: "The script ID, e.g. 0123/4567. You can find it in the crazyegg script URL."
